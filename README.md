@@ -14,7 +14,7 @@ Write a reusable function that outputs a 7 pattern, that outputs to the console 
  X
 *
 
->>> seven(7)
+>>> seven(6)
 *****X
     *
    X
